@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366246411882",
+    "project_id": "myparking-eb87a",
+    "storage_bucket": "myparking-eb87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366246411882:android:b09d465c80a0a36b1a9413",
+        "android_client_info": {
+          "package_name": "com.example.flu_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366246411882-9qfagvop2tfq4i9qqqlvrvefemabcgun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4aWy1RxTZRE2v9DIw-5q0Y3Sqqoiv7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366246411882-9qfagvop2tfq4i9qqqlvrvefemabcgun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
